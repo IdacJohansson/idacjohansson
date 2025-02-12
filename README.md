@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m @idacjohansson or Ida Johansson
 
-- 🚀 I’m a passionate developer working with both Java and JavaScript, and I’m currently honing my skills to become a well-rounded backend and frontend developer. 
+- 🚀 I’m a developer working with both Java and JavaScript, and I’m currently honing my skills to become a well-rounded backend and frontend developer. 
 - 🌱 Right now, I'm focused on expanding my skills in TypeScript and building projects with Next.js.
 - 👯 I’m actively seeking new job opportunities and exciting collaborations.
 - 📫 Say Hi! via email at johansson.c.ida@gmail.com
