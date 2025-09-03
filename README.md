@@ -7,7 +7,7 @@
 
 🔧 Skills:
 - Programming Languages: Java, JavaScript, TypeScript
-- Frontend: React, React Native, Next.js, CSS, SASS, Bootstrap
+- Frontend: React, React Native, Next.js, CSS, SASS, Tailwind, Bootstrap
 - Backend: SpringBoot, Node.js, Hibernate, Spring Data JPA, Spring Data JDBC, Spring Data REST
 - Databases: MySQL, H2, SQL, DBeaver
 - DevOps: Docker, Kubernetes, Azure, GitHub, CI/CD
