@@ -6,7 +6,7 @@
 - 📫 Say Hi! via email at johansson.c.ida@gmail.com
 
 🔧 Skills:
-- Programming Languages: Java, JavaScript
+- Programming Languages: Java, JavaScript, TypeScript
 - Frontend: React, React Native, Next.js, CSS, SASS, Bootstrap
 - Backend: SpringBoot, Node.js, Hibernate, Spring Data JPA, Spring Data JDBC, Spring Data REST
 - Databases: MySQL, H2, SQL, DBeaver
