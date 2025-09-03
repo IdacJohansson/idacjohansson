@@ -5,7 +5,7 @@
 - 👯 I’m actively seeking new job opportunities and exciting collaborations.
 - 📫 Say Hi! via email at johansson.c.ida@gmail.com
 
-🔧 Skills:
+  Skills:
 - Programming Languages: Java, JavaScript, TypeScript
 - Frontend: React, React Native, Next.js, CSS, SASS, Tailwind, Bootstrap
 - Backend: SpringBoot, Node.js, Hibernate, Spring Data JPA, Spring Data JDBC, Spring Data REST
