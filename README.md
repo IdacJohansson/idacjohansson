@@ -15,5 +15,5 @@ I’m actively seeking new job opportunities and exciting collaborations.
 
 ***
 
-Looking forward to connecting! 😊
+Looking forward to connecting! 😊.<br>
 📫 Say Hi! via email at johansson.c.ida@gmail.com
